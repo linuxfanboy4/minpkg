@@ -1,0 +1,2 @@
+# minpkg
+Minimalistic Package Manager 
